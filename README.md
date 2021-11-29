@@ -2,3 +2,4 @@
 En este repositorio se desarrollaran todos los talleres en clase de  Fundamentos de Algoritmia.
 ## ANTONIO GOMEZ BANDA 
 ## MARIA JOSE PADILLA URUETA
+## Sebastian Lopez Sotelo 
