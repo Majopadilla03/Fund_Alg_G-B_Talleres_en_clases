@@ -4,3 +4,5 @@ En este repositorio se desarrollaran todos los talleres en clase de  Fundamentos
 ## MARIA JOSE PADILLA URUETA
 ## Sebastian Lopez Sotelo 
 ## GLORIA ELENA CORDERO ALMARIO
+## Gloria Elena Cordero Almario
+
