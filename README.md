@@ -3,3 +3,4 @@ En este repositorio se desarrollaran todos los talleres en clase de  Fundamentos
 ## ANTONIO GOMEZ BANDA 
 ## MARIA JOSE PADILLA URUETA
 ## Sebastian Lopez Sotelo 
+## GLORIA ELENA CORDERO ALMARIO
